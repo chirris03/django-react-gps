@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+dist/
+.env
+.vite/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+/media
+/staticfiles
+/static/
+local_settings.py
+
+# PostgreSQL
+*.pgdata
+*.pgpass
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS Specific
+.DS_Store
+Thumbs.db
